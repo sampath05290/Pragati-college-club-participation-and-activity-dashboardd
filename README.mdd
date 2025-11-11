@@ -1,0 +1,20 @@
+# Project Pragati College Club Participation Dashboard
+
+This repository contains a simple Streamlit dashboard for tracking club participation at college.
+
+## Setup
+
+1. Install dependencies:
+   pip install streamlit pandas
+
+2. Run the dashboard:
+   streamlit run dashboard.py
+
+3. Participation data is stored in club_participation.csv.
+
+## Features
+
+- Add and view club participation data
+- Auto-updating dashboard stats and charts
+
+Feel free to extend with more features!
